@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/webdesign/static/css/main.1bf441a1.chunk.css",
+    "main.css": "/webdesign/static/css/main.4f1eb26e.chunk.css",
     "main.js": "/webdesign/static/js/main.fe6dc0da.chunk.js",
     "main.js.map": "/webdesign/static/js/main.fe6dc0da.chunk.js.map",
     "runtime-main.js": "/webdesign/static/js/runtime-main.f0adf3fb.js",
@@ -10,14 +10,14 @@
     "static/js/3.428aad18.chunk.js": "/webdesign/static/js/3.428aad18.chunk.js",
     "static/js/3.428aad18.chunk.js.map": "/webdesign/static/js/3.428aad18.chunk.js.map",
     "index.html": "/webdesign/index.html",
-    "static/css/main.1bf441a1.chunk.css.map": "/webdesign/static/css/main.1bf441a1.chunk.css.map",
+    "static/css/main.4f1eb26e.chunk.css.map": "/webdesign/static/css/main.4f1eb26e.chunk.css.map",
     "static/js/2.18fb553d.chunk.js.LICENSE.txt": "/webdesign/static/js/2.18fb553d.chunk.js.LICENSE.txt",
     "static/media/App.css": "/webdesign/static/media/HoltwoodOneSC-Regular.e19e7d1e.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.f0adf3fb.js",
     "static/js/2.18fb553d.chunk.js",
-    "static/css/main.1bf441a1.chunk.css",
+    "static/css/main.4f1eb26e.chunk.css",
     "static/js/main.fe6dc0da.chunk.js"
   ]
 }
